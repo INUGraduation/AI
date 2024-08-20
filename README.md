@@ -6,12 +6,12 @@
 프로젝트에서는 팀 리더와 지원자의 "기술 스킬" , " 경력 데이터" 등을 기반으로 비슷한 프로필을 가진 사람들을 그룹화하여 최적의 매칭을 지원한다.
 ![image](https://github.com/user-attachments/assets/97ca01af-5969-47c0-b288-221774d77b2b)
 
+![image](https://github.com/user-attachments/assets/55217a91-ffd1-4092-bc65-af49f9e8300f)
+
 ## 사용된 언어 & 라이브러리 및 기술 :
 ---
 사용 언어 : Python
 ![image](https://github.com/user-attachments/assets/24173eea-f141-4dfa-ad5f-f2a36af5fd40)
-![image](https://github.com/user-attachments/assets/55217a91-ffd1-4092-bc65-af49f9e8300f)
-
 라이브러리 및 프레임워크 : 
 1. Pandas : 데이터 로드 및 전처리
 2. Numpy : 벡터화된 데이터 처리
