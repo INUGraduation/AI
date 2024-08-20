@@ -11,14 +11,14 @@
 ## 사용된 언어 & 라이브러리 및 기술 :
 ---
 사용 언어 : Python
-![image](https://github.com/user-attachments/assets/24173eea-f141-4dfa-ad5f-f2a36af5fd40)
+
 라이브러리 및 프레임워크 : 
 1. Pandas : 데이터 로드 및 전처리
 2. Numpy : 벡터화된 데이터 처리
 3. Scikit-learn : 머신러닝 모델 및 데이터 전처리 파이프라인 구현
 4. pytorch : 자연어처리 모델인 word2Vec을 훈련하여 문자열 데이터를 벡터화
 5. matplotlib : 클러스터링 결과 시각화
-![image](https://github.com/user-attachments/assets/7e476901-030b-47f8-bdf8-ecfcc7e3e8fa)
+
 
 
 ##프로젝트의 주요 단계 및 과정:
