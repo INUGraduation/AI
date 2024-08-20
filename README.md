@@ -16,7 +16,7 @@
 1. Pandas : 데이터 로드 및 전처리
 2. Numpy : 벡터화된 데이터 처리
 3. Scikit-learn : 머신러닝 모델 및 데이터 전처리 파이프라인 구현
-4. pytorch : 자연어처리 모델인 word2Vec을 훈련하여 문자열 데이터를 벡터화
+4. gensim : 자연어처리 모델인 word2Vec을 훈련하여 문자열 데이터를 벡터화
 5. matplotlib : 클러스터링 결과 시각화
 
 
