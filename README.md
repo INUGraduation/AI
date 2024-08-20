@@ -42,7 +42,16 @@
 ---
 현재는 팀리더와 지원자 100명에 대한 가상 데이터를 만들어서 구현을 목적으로 만들었고,
 이제 팀리더와 지원자를 10000명으로 늘려서 다시 수행
+
 ![image](https://github.com/user-attachments/assets/280f3be7-c0ab-48fe-bbc3-c54d36fdcd0f)
 ![image](https://github.com/user-attachments/assets/83dad81b-ae5f-4888-8ffa-8cc65551096e)
 
 여기서 A로 시작하는게 지원자 ID , T로 시작하는게 프로젝트 매니저 ID
+
+
+# falsk 서버 구현 ( spring 백엔드와 통신하는 머신러닝 모델 실행 서버)
+Flask 파이썬 프레임워크를 사용해 머신러닝 모델을 실행하기 위한 별도의 서버를 구축하고, 스프링 백엔드와는 REST API를 사용해 통신
+
+1. 클라이언트 A의 정보를 Json 데이터를 Falsk 라우트에서 처리
+2. 받은 데이터를 df구조로 바꾼 후에, 전처리 및 모델 예측 수행.
+3. 클라이언트 A와 같은 클러스터에 속한 팀 리더들의 ID를 리스트 형태로 반환 결과는 다시, Json 데이터
