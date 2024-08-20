@@ -77,7 +77,7 @@ def get_skill_vectors_pytorch(model, word_to_ix, skills_list):
 data_vectors = get_skill_vectors_pytorch(embedding_model, word_to_ix, data_skills)
 
 # 전처리 및 피처 결합 
-numeric_features_data = ['Experience/Team_Size']
+numeric_features_data = ['Experience']
 categorical_features_data = [col for col in data.columns if data[col].dtype == 'object' and col not in ['Technical_Skills', 'Programming_Languages']]
 
 def setup_and_apply_preprocessor(data, numeric_features, categorical_features):
