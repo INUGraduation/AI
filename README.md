@@ -38,8 +38,11 @@
 
 
 
-###현재 진행
+###데이터 샘플 수 추가 해서 진행
 ---
 현재는 팀리더와 지원자 100명에 대한 가상 데이터를 만들어서 구현을 목적으로 만들었고,
-이제 팀리더와 지원자를 10000명으로 늘려서 다시 수행해볼 예정임.
+이제 팀리더와 지원자를 10000명으로 늘려서 다시 수행
+![image](https://github.com/user-attachments/assets/280f3be7-c0ab-48fe-bbc3-c54d36fdcd0f)
+![image](https://github.com/user-attachments/assets/83dad81b-ae5f-4888-8ffa-8cc65551096e)
 
+여기서 A로 시작하는게 지원자 ID , T로 시작하는게 프로젝트 매니저 ID
